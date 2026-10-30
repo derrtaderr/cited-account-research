@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/account-scout-wordmark-dark.png">
-    <img src="assets/account-scout-wordmark-light.png" alt="account-scout" width="580">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/cited-account-research-wordmark-dark.png">
+    <img src="assets/cited-account-research-wordmark-light.png" alt="cited-account-research" width="760">
   </picture>
   <br>
   A GTM account-research agent whose claims must survive.
